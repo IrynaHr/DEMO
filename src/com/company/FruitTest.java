@@ -41,7 +41,7 @@ public class FruitTest {
         String name ="Apple";
         String color = "red";
 
-        MessageUtil messageUtil = new MessageUtil(name+color);
+//        MessageUtil messageUtil = new MessageUtil(name+color);
 //        String message = "Manisha";
 //        MessageUtil messageUtil = new MessageUtil(message);
 //
