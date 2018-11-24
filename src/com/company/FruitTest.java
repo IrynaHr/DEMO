@@ -43,7 +43,7 @@ public class FruitTest {
 
 //        MessageUtil messageUtil = new MessageUtil(name+color);
 //        String message = "Manisha";
-//        MessageUtil messageUtil = new MessageUtil(message);
+
 //
 //        @Test
 //        public void testPrintMessage() {
